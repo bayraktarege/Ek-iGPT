@@ -5,7 +5,7 @@ Large Language Models reached their highest popularity in November 2022 with the
 
 This is a prototype for a decoder only model capable of text-completion. Model source code belongs to Andrej Karpathy (@karpathy). I used the same caharacter based approach and pre-trained the model for 10000 epochs and reached train and validation loss around 1.34.  
 
-The reason for this project is to understand the transformer mechanism and get a grasp of hyperparameters for further versions. Also there are relatively small amount of open-source Turkish language models capbale of producing reasonable output. Improving this model requires fine-tuning with reinforcement learning. This repository provides you the dataset, over 13K Ekşi Sözlük topics and hopes to give your projects a kickstart in building convenient language models capable of producing high quality Turkish output.
+The reason for this project is to understand the transformer mechanism and get a grasp of hyperparameters for further versions. Also there are relatively small amount of open-source Turkish language models capbale of producing reasonable output. Improving this model requires fine-tuning with reinforcement learning. This repository provides you the dataset, over 13K Ekşi Sözlük topics and hopes to give your projects a kickstart in building convenient language models capable of producing high-quality Turkish output.
 
 
 Further reading:
@@ -20,7 +20,6 @@ https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning
 https://www.sciencedirect.com/science/article/pii/S2666827020300062  chatbot types
 8428-6471-2211-1466
 https://developer.nvidia.com/blog/how-to-create-a-custom-language-model/ - create custom model
-https://www.linkedin.com/pulse/building-generative-language-model-pytorch-tensorflow-arpit-valand/ - this is the shit?
 https://medium.com/@andelkovics98/the-power-of-embeddings-unraveling-the-secrets-of-natural-language-processing-in-llms-like-gpt-4-601c14d1d0ea - embeddings
 https://www.veribilimiokulu.com/natural-language-toolkitnltk/ * nutk tutorial stemming etc
 https://huyenchip.com/2023/06/07/generative-ai-strategy.html
