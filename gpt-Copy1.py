@@ -356,7 +356,7 @@ m = model.to(device)
 
 
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
-text = decode(m.generate(x, max_new_tokens=100)[0].tolist())
+text = decode(m.generate(context, max_new_tokens=100)[0].tolist())
 
 
 # In[ ]:
