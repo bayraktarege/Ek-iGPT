@@ -34,6 +34,6 @@ https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b
 https://betterprogramming.pub/unleash-your-digital-twin-how-fine-tuning-llm-can-create-your-perfect-doppelganger-b5913e7dda2e — Digital Twin
 Q and a without context https://discuss.huggingface.co/t/bert-question-answering-model-without-context/5093
 https://www.reddit.com/r/LocalLLaMA/comments/15sgg4m/what_modules_should_i_target_when_training_using/
-LLaMA 2 — https://colab.research.google.com/drive/12dVqXZMIVxGI0uutU6HG9RWbWPXL3vts?usp=sharing burada pet config datasında training modules yok
+LLaMA 2 — https://colab.research.google.com/drive/12dVqXZMIVxGI0uutU6HG9RWbWPXL3vts?usp=sharing
 https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91 fine tune LLM
 
