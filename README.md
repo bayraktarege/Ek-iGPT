@@ -1,7 +1,7 @@
 # EksiGPT
 A pre-trained small GPT model on 8K Ekşi Sözlük (Turkish Urban Dictionary) entries.
 
-You can find the weghts here: https://drive.google.com/drive/folders/180R9E80t0SaTeE2cbqQCbIuXMcNMagze?usp=share_link
+You can find the weights here: https://drive.google.com/drive/folders/180R9E80t0SaTeE2cbqQCbIuXMcNMagze?usp=share_link
 <img width="856" alt="Screenshot 2023-11-29 at 01 48 17" src="https://github.com/bayraktarege/EksiGPT/assets/50349360/aeec01e4-b6dc-4330-8ddb-1f4f6865187f">
 
 Large Language Models reached their highest popularity in November 2022 with the launch of ChatGPT. The Generative Pre-Trained Transformer (GPT) architecture laying behind of this model was described in Vashwani et al. paper titled "Attention Is All You Need". In comparison to the Recurrent Neural Network approach, a transformer connects encoder and decoder to achive shorter training time and better quality in translation.
